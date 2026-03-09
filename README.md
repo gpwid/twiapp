@@ -4,7 +4,7 @@ TwiApp is a simple, no-nonsense Android app for downloading media from your favo
 
 Built with Kotlin and Jetpack Compose, it's designed around a "Share & Forget" philosophy — just share a link to the app, and it handles the rest in the background.
 
-![TwiApp Screenshot](screenshots/twiapphomepage.jpeg)
+<img src="screenshots/twiapphomepage.jpeg" alt="TwiApp Screenshot" height="540">
 
 ## Features ✨
 
@@ -39,7 +39,7 @@ Want to tinker with it? Awesome.
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/twiapp.git
+   git clone https://github.com/gpwid/twiapp.git
    ```
 2. Open the project in Android Studio (Jellyfish or newer recommended).
 3. Let Gradle sync.
