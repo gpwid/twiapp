@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- X (Twitter) logo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18.9,2h3.18l-6.94,7.93L23.44,22h-6.4l-5.01,-6.55L6.16,22H2.97l7.43,-8.49L2.56,2h6.56l4.53,5.99ZM17.78,20.08h1.76L8.28,3.8H6.37Z" />
+</vector>
